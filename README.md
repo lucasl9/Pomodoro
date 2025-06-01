@@ -29,4 +29,12 @@ Este site foi criado como uma ferramenta prática e acessível para aplicar a T�
 ## 🚀 Como usar
 
 1. Clique em **Iniciar** para começar seu ciclo de 25 minutos.
-2. Se precisar, cliq
+2. Se precisar, clique em **Pausar** para interromper temporariamente.
+3. Clique em **Parar** para encerrar e reiniciar o ciclo.
+
+Após cada ciclo, faça uma pausa curta de 5 minutos para descansar e se preparar para o próximo Pomodoro!
+
+---
+
+> Projeto criado com foco na simplicidade e produtividade.  
+> Sinta-se à vontade para contribuir ou sugerir melhorias!
